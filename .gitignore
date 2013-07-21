@@ -1,0 +1,6 @@
+.*
+*tgz
+*swp
+*swo
+*~
+node_modules/*
